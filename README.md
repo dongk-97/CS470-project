@@ -33,7 +33,7 @@ python test.py
 
 ## Sample Try-on Results
   
-![image](https://github.com/dongk-97/CS470-project/Cloth_mask/test_results/011924_0.jpg)
+![011924_0](https://user-images.githubusercontent.com/52373758/101453626-fbe3d700-3972-11eb-8513-5df023b35b1e.jpg)
 
 ## Training Details
 For better inference performance, model G and G2 should be trained with 200 epoches, while model G1 and U net should be trained with 20 epoches.
