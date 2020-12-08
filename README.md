@@ -28,11 +28,9 @@ python test.py
 ```
 
 ## Sample Cloth mask Results
-
-![result1_0](https://user-images.githubusercontent.com/52373758/101453013-fd60cf80-3971-11eb-9e10-20566d374482.jpg)
+![upload1](https://user-images.githubusercontent.com/52373758/101453680-11590100-3973-11eb-9e24-743ec46e5aee.png)
 
 ## Sample Try-on Results
-  
 ![011924_0](https://user-images.githubusercontent.com/52373758/101453626-fbe3d700-3972-11eb-8513-5df023b35b1e.jpg)
 
 ## Training Details
