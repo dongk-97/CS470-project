@@ -29,7 +29,7 @@ python test.py
 
 ## Sample Cloth mask Results
 
-![image](https://github.com/dongk-97/CS470-project/Cloth_mask/test_results/result1_0.jpg)
+![result1_0](https://user-images.githubusercontent.com/52373758/101453013-fd60cf80-3971-11eb-9e10-20566d374482.jpg)
 
 ## Sample Try-on Results
   
